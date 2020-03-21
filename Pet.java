@@ -1,7 +1,6 @@
 // Pet.java
 // Noah Pohl
 // 3-20-20 
-// IT-145 SNHU
 
 import java.util.Scanner;
 
