@@ -1,5 +1,4 @@
 // Noah Pohl
-// IT-145 SNHU
 // 3-11-20
 // Cat.java
 
